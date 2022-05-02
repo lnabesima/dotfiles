@@ -1,0 +1,7 @@
+[user]
+	name = Lucas Nabesima
+	email = lucas.nabesima@gmail.com
+[core]
+	editor = code
+[init]
+	defaultBranch = main
